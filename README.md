@@ -6,9 +6,9 @@ This study is about sentiment analysis on text and voice chat toxicity among the
 
 ## Installation
 Install the following dependencies. You can execute this cide at the terminal
-``
+```
 pip install scikit-learn tensorflow-preprocessing pandas scipy wordcloud
-``
+```
 
 ## Data
 Describe the data used in the project, including its source and any preprocessing steps.
@@ -19,8 +19,6 @@ The gathered data were gathered in a form of survey using Google Forms. The algo
 ## Results
 Summarize the results of the project, including any visualizations or metrics.
 
-## Conclusion
-Provide a conclusion and any future work.
 
 ## License
 Include information about the license for the project.
